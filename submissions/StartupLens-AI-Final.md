@@ -1,12 +1,12 @@
 Hackathon Submission: StartupLens AI
 
-GitHub handle
+GitHub handle : 
 anupala21
 
-Project Title
+Project Title : 
 StartupLens AI
 
-Team Name
+Team Name : 
 OpenVerse
 
 Project Description
